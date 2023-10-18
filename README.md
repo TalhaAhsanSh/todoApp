@@ -21,7 +21,9 @@ Add and Manage Tasks: Start adding your tasks and managing them with the user-fr
 The ToDo List App uses the following external packages:
 
 flutter/material.dart: For building the UI.
+
 get/get.dart: For state management.
+
 shared_preferences/shared_preferences.dart: For storing tasks in persistent storage.
 
 Feel free to contribute, report issues, or suggest improvements to make this app even better.
