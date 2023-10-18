@@ -24,8 +24,6 @@ flutter/material.dart: For building the UI.
 get/get.dart: For state management.
 shared_preferences/shared_preferences.dart: For storing tasks in persistent storage.
 
-Author
-Talha Ahsan
 Feel free to contribute, report issues, or suggest improvements to make this app even better.
 
 Happy task management with the ToDo List App!
